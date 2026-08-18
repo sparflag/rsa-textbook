@@ -1,0 +1,7 @@
+slug: rsa-textbook
+title: RSA Rookie
+category: cryptography
+difficulty: medium
+points: 300
+codec: fernet
+repo_url: https://github.com/sparflag/rsa-textbook
